@@ -1,0 +1,3 @@
+require version-baseband=g5400c-240718-240719-B-12112834
+require board=comet
+require version-bootloader=ripcurrentpro-15.0-12152969
